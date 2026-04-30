@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Tarif_sistemi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Tarif_sistemi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
