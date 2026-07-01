@@ -22,6 +22,6 @@ Kocaeli Üniversitesi — Yazılım Laboratuvarı I, 1. Proje.
 ## Kurulum
 
 1. MySQL kurulu olduğundan emin ol
-2. `veritaban.txt` içindeki SQL sorgularını çalıştırarak veritabanını oluştur
+2. `jdbcdemo` adında bir veritabanı oluştur (uygulama `localhost:3306/jdbcdemo` adresine bağlanır)
 3. Tüm `.java` kaynak dosyalarındaki `YOUR_PASSWORD` değerini kendi MySQL şifrenle değiştir
 4. Projeyi NetBeans ile aç ve çalıştır
